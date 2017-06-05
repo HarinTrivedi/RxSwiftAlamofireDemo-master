@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RxSwiftAlamofire-Demo
+
+  Created by Harry's Lab on 02/06/17.
+
+ 
+ I have used openweathermap api for getting temperature data
+*/
+
+// Params
+"api_key" =  ""; // generate appid from http://openweathermap.org/appid and replace key here
+
+"str_humidity" = "Humidity";
+"str_celsius" = "°C";
+"val_unit" = "metric";
+"transition_city" = "city";
+
+
+// Messages
+"str_no_internet" = "Check your internet connection";
+"str_something_went_wrong" = "Something went wrong. Try again";
+"val_enter_city" = "Enter city name";
